@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a Python script for creating a Telegram bot, as detailed in my [Medium article](link-to-your-medium-article). This bot is built using the `python-telegram-bot` library and is designed to send reminders based on tasks you add.
+This repository contains a Python script for creating a Telegram bot, as detailed in my [Medium article](https://medium.com/@thedevpw/creating-a-telegram-reminder-bot-with-python-a280958b574b). This bot is built using the `python-telegram-bot` library and is designed to send reminders based on tasks you add.
 
 ## Prerequisites
 
@@ -16,10 +16,11 @@ This repository contains a Python script for creating a Telegram bot, as detaile
    Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/thedevp/tutorials.git
+   git clone https://github.com/thedevp/tutorials.git telegram-reminder-bot-example
     ```
 2. **Set up python virtual environment**
-
+    
+    Make sure you navigate to the project directory before running the following commands.
     ```
     python -m venv venv
     source venv/bin/activate
